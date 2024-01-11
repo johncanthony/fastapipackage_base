@@ -1,0 +1,1 @@
+# fastapipackage_base
