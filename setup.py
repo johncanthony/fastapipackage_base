@@ -6,7 +6,7 @@ setup(
     description='Baseline Package for Fast API project',
     author='John Anthony',
     packages=find_packages(exclude=('test', '.venv')),
-    install_requires=['fastapi', 'uvicorn'],
+    install_requires=['fastapi', 'uvicorn', 'pytest', 'httpx'],
     classifiers=[
         'Programming Language :: Python :: 3.6',
     ],
